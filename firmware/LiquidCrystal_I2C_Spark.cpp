@@ -27,6 +27,7 @@ bulldoglowell@gmail.com
 // LiquidCrystal constructor is called).
 
 #include "application.h"
+
 #include "LiquidCrystal_I2C_Spark.h"
 
 

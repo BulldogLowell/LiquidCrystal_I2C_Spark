@@ -5,8 +5,6 @@ Jim Brower -
 bulldoglowell@gmail.com
 */
 
-#define ARDUINO_H
-
 #ifndef LiquidCrystal_I2C_Spark_h
 #define LiquidCrystal_I2C_Spark_h
 
