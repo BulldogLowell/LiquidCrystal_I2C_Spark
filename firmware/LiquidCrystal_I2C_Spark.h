@@ -4,6 +4,7 @@ Modified timing of writes to accomodate SparkCore
 Jim Brower - 
 bulldoglowell@gmail.com
 */
+#include "application.h"
 
 #ifndef LiquidCrystal_I2C_Spark_h
 #define LiquidCrystal_I2C_Spark_h
