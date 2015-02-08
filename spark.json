@@ -1,0 +1,7 @@
+{
+  "name": "LiquidCrystal_I2C_Spark",
+  "author": "Jim Brower <bulldoglowell@gmail.com>",
+  "license": "GNU",
+  "version": "0.2.11",
+  "description": "LiquidCrystal_I2C ported for Spark Core"
+}
