@@ -4,7 +4,7 @@ Jim Brower
 bulldoglowell@gmail.com
 */
 
-#include LiquidCrystal_I2C_Spark/LiquidCrystal_I2C_Spark.h
+#include "LiquidCrystal_I2C_Spark/LiquidCrystal_I2C_Spark.h"
 
 LiquidCrystal_I2C *lcd;
 
