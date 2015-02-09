@@ -251,9 +251,7 @@ void LiquidCrystal_I2C::write4bits(uint8_t value) {
 
 void LiquidCrystal_I2C::expanderWrite(uint8_t _data){
         Wire.beginTransmission(_Addr);
-        delayMicroseconds(2);
         Wire.write((int)(_data) | _backlightval);
-        delayMicroseconds(2);
         Wire.endTransmission();
         delayMicroseconds(2);
         }
